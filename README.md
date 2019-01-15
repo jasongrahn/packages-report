@@ -3,8 +3,16 @@ a repo from rstudio::conf 2019 "What They Forgot" workshop
 
 Already changed form the IDE 
 
-Make another change from the browser
+Best/Worst lorem ipsum ever:
 
-# jirble
-# callipygian
-# eucatastrophe 
+    jirble
+    callipygian
+    eucatastrophe 
+    constellate
+    degust
+    mollycoddle
+    mumpsimus
+    osculable
+    overmorrow
+    slonk
+    velleity
