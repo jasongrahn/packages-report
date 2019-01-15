@@ -1,3 +1,7 @@
+#' --- 
+#' output: github_document 
+#' ---
+
 ## deja vu from earlier!
 library(fs)
 library(tidyverse)
