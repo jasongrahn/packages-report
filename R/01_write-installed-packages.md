@@ -1,7 +1,7 @@
 01\_write-installed-packages.R
 ================
 rstudio
-Tue Jan 15 23:01:57 2019
+Tue Jan 15 23:09:32 2019
 
 ``` r
 ## deja vu from earlier!
@@ -43,4 +43,27 @@ readr::write_csv(x = ipt,
 ## YES overwrite the file that is there now (or delete it first)
 ## that's a old result from me (Jenny)
 ## it an example of what yours should look like and where it should go
+
+####################################################
+#                                                  #
+#  system information at time of publish is below  #
+#                                                  #
+####################################################
+
+devtools::session_info()[1]
 ```
+
+    ## Warning in system("timedatectl", intern = TRUE): running command
+    ## 'timedatectl' had status 1
+
+    ## $platform
+    ##  setting  value                       
+    ##  version  R version 3.5.1 (2018-07-02)
+    ##  os       Debian GNU/Linux 9 (stretch)
+    ##  system   x86_64, linux-gnu           
+    ##  ui       X11                         
+    ##  language (EN)                        
+    ##  collate  en_US.UTF-8                 
+    ##  ctype    en_US.UTF-8                 
+    ##  tz       Etc/UTC                     
+    ##  date     2019-01-15

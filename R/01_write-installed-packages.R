@@ -27,3 +27,11 @@ readr::write_csv(x = ipt,
 ## YES overwrite the file that is there now (or delete it first)
 ## that's a old result from me (Jenny)
 ## it an example of what yours should look like and where it should go
+
+####################################################
+#                                                  #
+#  system information at time of publish is below  #
+#                                                  #
+####################################################
+
+devtools::session_info()[1]
