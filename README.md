@@ -1,5 +1,5 @@
 # packages-report
-a repo from rstudio::conf 2019 "What They Forgot" workshop
+My repo from rstudio::conf 2019 "What They Forgot" workshop
 
 Best/Worst lorem ipsum ever:
 
